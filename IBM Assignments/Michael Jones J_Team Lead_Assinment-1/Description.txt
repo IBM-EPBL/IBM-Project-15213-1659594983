@@ -1,0 +1,13 @@
+ Hello sir,
+	I am Michael Jones J (Team Leader). This is my Assignment_1 details.
+
+ Details:
+ ````````
+	I used piezo , motion detector, RGB LED components.
+	When there is a motion detected both the RGB LED will be on and the Piezo will start to alarm.
+
+ Link for the Tinkercad:
+ ```````````````````````
+	https://www.tinkercad.com/things/1ANNfLwgxdI
+
+ 
